@@ -7,6 +7,8 @@ There are two important tasks that we need to find out how many peoples are reti
 We created an ERD as a road map on tables that we had and their relationships that helps in the process of creating new tables. 
 Please refer below for ERD image and details on table's relationships:
 
+
+
 ![employeeDB.png](https://github.com/KANIKOLIJI/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
 
 
